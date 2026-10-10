@@ -7,17 +7,17 @@
 
 - 🤝 I’m looking for help with [Advanced Robotics Sensors & System Architecture](https://github.com/Sanchitha-Dev-S)
 
-- 👨‍💻 All of my projects are available at [📁 All of my projects are available at https://github.com/Sanchitha-Dev-S?tab=repositories](📁 All of my projects are available at https://github.com/Sanchitha-Dev-S?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Sanchitha-Dev-S?tab=repositories]
 
 - 💬 Ask me about **Robotics, Python, front-end, embedded system**
 
 - 📫 How to reach me **sanchithakalendra375@gmail.com**
 
-- 📄 Know about my experiences [💬 Ask me about **Robotics, Python Full-Stack, HTML/CSS**](💬 Ask me about **Robotics, Python Full-Stack, HTML/CSS**)
+- 📄 Know about my experiences [💬 Ask me about **Robotics, Python Full-Stack, HTML/CSS**]
 
-- ⚡ Fun fact **⚡ Fun fact: I can break a system faster than I can make coffee ☕**
+- ⚡ Fun fact **: I can break a system faster than I can make coffee ☕**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:074 048 2053</h3>
 <p align="left">
 </p>
 
