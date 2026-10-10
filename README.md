@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchitha-Dev-S</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=I'm+Sanchitha+Dev+S;Robotics+Full+Project+Builder;Python+Full-Stack+Developer;Break+the+System+to+Build+Better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=I+am+Sanchitha+Dev+S;Robotics+Full+Project+Builder;Python+Full-Stack+Developer;Break+the+System+to+Build+Better)](https://git.io/typing-svg)
 <h3 align="center">Break the System to Build Better | Python Full-Stack & Robotics</h3>
 
 - 🔭 I’m currently working on [SKIN LAB](https://github.com/Sanchitha-Dev-S/SKIN-LAB)
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **: I can break a system faster than I can make coffee ☕**
 
-<h3 align="left">Connect with me:074 048 2053</h3>
+
 <p align="left">
 </p>
 
