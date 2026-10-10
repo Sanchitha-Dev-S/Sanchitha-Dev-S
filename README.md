@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanchitha-Dev-S</h1>
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1DF73F&width=435&lines=Break+the+System+to+Build+Better" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F742&width=435&lines=Break+the+System+to+Build+Better+;Python+Full+Stack+%26+Robotics+" alt="Typing SVG" /></a>
 
 <h3 align="center">Break the System to Build Better | Python Full-Stack & Robotics</h3>
 
